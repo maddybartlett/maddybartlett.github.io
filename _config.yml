@@ -22,7 +22,7 @@ repository               : "maddybartlett/maddybartlett.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "MBphoto.jpeg"
   name             : "Maddy Bartlett"
   pronouns         : "she/her"  
   bio              : "Research Associate investigating computational control mechanisms that regulate adaptive learning and behaviour."
