@@ -8,16 +8,16 @@ permalink: /images/manifest.json
 	"description": {{ site.description | jsonify }},
 	"start_url": "{{ site.baseurl | default: '/' }}",
 	"lang": {{ site.locale | default: "en" | jsonify }},
-	"icons": [
-		{
-			"src": "/images/favicon-192x192.png",
-			"sizes": "192x192",
-			"type": "image/png"
-		},
-		{
-			"src": "/images/favicon-512x512.png",
-			"sizes": "512x512",
-			"type": "image/png"
-		}
-	]
+	// "icons": [
+	// 	{
+	// 		"src": "/images/favicon-192x192.png",
+	// 		"sizes": "192x192",
+	// 		"type": "image/png"
+	// 	},
+	// 	{
+	// 		"src": "/images/favicon-512x512.png",
+	// 		"sizes": "512x512",
+	// 		"type": "image/png"
+	// 	}
+	// ]
 }
